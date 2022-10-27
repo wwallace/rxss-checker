@@ -1,3 +1,3 @@
-module github.com/wwallace/rxss-checker/m/v2
+module github.com/wwallace/rxss-checker
 
 go 1.19
